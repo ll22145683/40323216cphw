@@ -297,7 +297,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151011201612.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151011201612.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="leo.20151011201612.2"><vh>檔案說明</vh></v>
 <v t="leo.20151011201612.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151011201612.4" a="E"><vh>body 標註</vh>
@@ -2344,7 +2344,7 @@ g.es("pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151011201612.8">&lt;section&gt;
     &lt;h2&gt;心得與自評分數&lt;/h2&gt;
-    &lt;p&gt;老師教的繪圖軟體不錯用 很好上手又開得很快 功能也很齊全 算是很好的繪圖軟體 &lt;/p&gt;
+    &lt;p&gt;老師教的繪圖軟體不錯用 很好上手又開得很快 功能也很齊全 算是很好的繪圖軟體 0.0.0&lt;/p&gt;
     &lt;p&gt;分數  : 80 分&lt;/p&gt;
 
 &lt;/section&gt;
